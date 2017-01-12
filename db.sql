@@ -1,5 +1,7 @@
 create database simpleAppDB;
 
+use simpleAppDB;
+
 create table Customer(
 	customerId bigint auto_increment,
     fName varchar(50) not null,
