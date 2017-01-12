@@ -13,4 +13,4 @@ insert into Customer(fName,lName)values('Andrew','McDonald');
 insert into Customer(fName,lName)values('Alby','Morkel');
 insert into Customer(fName,lName)values('Scott','Styris');
 
-select * from customer;
+select * from Customer;
